@@ -1,0 +1,4 @@
+cmd
+git clone https://github.com/ramonvc/freegpt-we...
+pip install -r requirements.txt
+python run.py
